@@ -1,0 +1,18 @@
+{
+  "name": "rchuluc-create-component",
+  "version": "1.0.1",
+  "description": "This script creates a React component folder, with index.js and style.scss",
+  "main": "index.js",
+  "keywords": [
+    "React",
+    "tool",
+    "CLI",
+    "component"
+  ],
+  "author": "rchuluc",
+  "license": "ISC",
+  "preferGlobal": true,
+  "bin": {
+    "create-component": "./bin/index.js"
+  }
+}
