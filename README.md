@@ -1,8 +1,8 @@
-###Create component
+### Create component
 
 This CLI tool create React components.
 
-##How to use:
+## How to use:
 
 - Navigate to desired folder
 
@@ -11,4 +11,3 @@ This CLI tool create React components.
 
 - The component will be created with a JS file and a Sass file already imported
 
-Made by [rchuluc](https://github.com/rchuluc)
